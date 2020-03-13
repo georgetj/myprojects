@@ -1,4 +1,4 @@
-# This program reads the CSV file and create the ddl and dml for on boarding new cloud devices into NPMAN platform.
+# This program reads the CSV file and create the ddl and dml for on boarding new cloud devices
 # Next step : read from a json. Identify derived metric and the rules for it.
 import csv
 with open('urs.txt') as csv_file:
